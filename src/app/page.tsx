@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -156,8 +156,7 @@ export default function Home() {
               company: "Tech Solutions Inc",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Johnson",
-              content: "RentHub exceeded all our expectations. The property was exactly as advertised and the booking process was seamless. We'll definitely be back!"
+              imageAlt: "Portrait of Sarah Johnson"
             },
             {
               id: "2",
@@ -166,8 +165,7 @@ export default function Home() {
               company: "Adventure Stories",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3063478/pexels-photo-3063478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Michael Chen",
-              content: "As someone who travels constantly, I can honestly say RentHub offers some of the best curated properties I've experienced. Outstanding quality and service."
+              imageAlt: "Portrait of Michael Chen"
             },
             {
               id: "3",
@@ -176,8 +174,7 @@ export default function Home() {
               company: "Retired Couple",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6972784/pexels-photo-6972784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Emily and David Rodriguez",
-              content: "We've used many rental platforms over the years, but RentHub stands out for its attention to detail and verified property standards. Highly recommended!"
+              imageAlt: "Portrait of Emily and David Rodriguez"
             },
             {
               id: "4",
@@ -186,8 +183,7 @@ export default function Home() {
               company: "Global Consulting",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5716037/pexels-photo-5716037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of James Wilson",
-              content: "Perfect for business trips and family vacations alike. The platform makes finding quality accommodations effortless. Five stars!"
+              imageAlt: "Portrait of James Wilson"
             },
             {
               id: "5",
@@ -196,8 +192,7 @@ export default function Home() {
               company: "Mom of 3",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/34433235/pexels-photo-34433235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Lisa Thompson",
-              content: "Planning family trips used to be stressful, but RentHub makes it so easy to find properties that work for everyone. The kids love it too!"
+              imageAlt: "Portrait of Lisa Thompson"
             }
           ]}
         />
@@ -217,7 +212,7 @@ export default function Home() {
             "https://images.pexels.com/photos/59924/pexels-photo-59924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/9949424/pexels-photo-9949424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/9949424/pexels-photo-9949424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-          ]
+          ]}
           speed={35}
         />
       </div>
