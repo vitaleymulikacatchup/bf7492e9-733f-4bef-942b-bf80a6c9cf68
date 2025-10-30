@@ -9,9 +9,9 @@ import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCar
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
-import { Home, Star, MessageSquare, Award, Send } from "lucide-react";
+import { Star, MessageSquare, Award, Send } from "lucide-react";
 
-export default function Home() {
+export default function RentHub() {
   return (
     <ThemeProvider
       defaultButtonVariant="text-stagger"
@@ -39,7 +39,6 @@ export default function Home() {
           title="Find Your Perfect Rental Home"
           description="Discover thousands of verified rental properties from trusted hosts. Book your dream vacation home today with confidence and ease."
           tag="Premium Rentals"
-          tagIcon={Home}
           buttons={[
             {
               text: "Browse Properties",
