@@ -36,7 +36,7 @@ export default function RentHub() {
       
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Find Your Perfect Rental Home"
+          title="YOOOOOOOOO"
           description="Discover thousands of verified rental properties from trusted hosts. Book your dream vacation home today with confidence and ease."
           tag="Premium Rentals"
           buttons={[
@@ -49,14 +49,14 @@ export default function RentHub() {
               href: "contact"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Beautiful rental home with modern amenities"
         />
       </div>
       
       <div id="about" data-section="about">
         <TextAbout
-          title="We connect property owners with travelers seeking authentic experiences, building a community where everyone feels at home"
+          title="HOLYYYYY SHITTT"
           buttons={[
             {
               text: "Learn More",
